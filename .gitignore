@@ -1,0 +1,33 @@
+# Book build output
+_book
+#R-IDE
+.RData
+.Rhistory
+.Rproj.user/
+#IDE
+dump
+bin
+target/**
+*.iml
+*.log
+*.class
+tmp/
+#Intelli-J
+.idea/
+#Open Shift
+.openshiftio
+.settings/
+.classpath
+.project
+.DS_Store
+bower_components/
+node_modules/
+build/
+.gradle/
+JenkinsfileTest.sh
+rebel.xml
+Output/**
+/target/
+
+#web
+/public
